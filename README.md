@@ -22,8 +22,8 @@ Just download the zip file and run LIVE_SERVER.
 
 
 ## 🔗 Demo :-
-- Git Repository link :
-- Hosted Link :
+- Git Repository link: https://github.com/Shatarupa-Barman/Todo_List.git
+- Hosted Link: https://rad-cendol-2ef4f7.netlify.app/
 
 ## 👩‍💻Author :-
 - @Shatarupa Barman
